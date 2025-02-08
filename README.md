@@ -1,8 +1,6 @@
 # Early-Stage-Diabetes-Risk-Prediction
 Early Stage Diabetes Risk Prediction using Random Forest Classifier
 
-# Early Stage Diabetes Risk Prediction
-
 ![Diabetes](https://i.postimg.cc/RZGrZyk2/DIABETES.jpg)
 
 Diabetes is a chronic condition that affects millions of people worldwide. 
